@@ -1,4 +1,4 @@
-// NAVIGATION
+// NAVIGATE
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
   { href: '/', key: 'how_travelnami_works', label: 'How Travel Nami Works?' },
