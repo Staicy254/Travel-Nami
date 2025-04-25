@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules"]
+  "include": ["Travel-Nami/next-env.d.ts", "**/*.ts", "**/*.tsx", "Travel-Nami/.next/types/**/*.ts"],
+  "exclude": ["Travel-Nami/node_modules"]
 }
