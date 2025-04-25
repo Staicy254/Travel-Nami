@@ -23,5 +23,5 @@
     }
   },
   "include": ["Travel-Nami/next-env.d.ts", "**/*.ts", "**/*.tsx", "Travel-Nami/.next/types/**/*.ts"],
-  "exclude": ["Travel-Nami/node_modules"]
+  "exclude": ["node_modules"]
 }

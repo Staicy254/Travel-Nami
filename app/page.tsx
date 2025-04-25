@@ -1,8 +1,8 @@
-import Camp from "@/Travel-Nami/components/Camp";
-import Features from "@/Travel-Nami/components/Features";
-import GetApp from "@/Travel-Nami/components/GetApp";
-import Guide from "@/Travel-Nami/components/Guide";
-import Hero from "@/Travel-Nami/components/Hero";
+import Camp from "@/components/Camp";
+import Features from "@/components/Features";
+import GetApp from "@/components/GetApp";
+import Guide from "@/components/Guide";
+import Hero from "@/components/Hero";
 
 export default function Home() {
   return (
